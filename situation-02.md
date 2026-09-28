@@ -1,6 +1,6 @@
 # Développement d'une application de suivi des commandes pour l'administration des ventes
 
-[← Retour au portfolio (index.html)
+[← Retour au portfolio] (index.html)
 
 *PME - Service administration des ventes - janvier 2026 - option SLAM*
 
